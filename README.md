@@ -25,7 +25,7 @@ Java实验二
 5.用关键字private修饰的成员变量和方法称为私有变量和私有方法
 
 #实验结果
-！[]()
+！[实验2](https://github.com/Wanghongbo0633/JAVA-/blob/main/1.PNG)
 
 #实验感想
 
